@@ -6,6 +6,7 @@ Next.js template with App Router.
 - [x] Prettier(using biome)
 - [x] Jest
 - [x] React Testing Library
+- [x] Husky
 
 ## Getting Started
 ```bash
